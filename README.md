@@ -3,6 +3,7 @@
 # Project Team 
 
  Şaban İbrahim GÖKSAL - [Linkedin](https://www.linkedin.com/in/%C5%9Faban-ibrahim-g%C3%B6ksal-610528a0/)
+ 
  Hamit Can - [Linkedin](https://www.linkedin.com/in/hamitcan/)
 
 # Project Content
